@@ -1,7 +1,5 @@
 # Tutoriel : Installer MongoDB avec Docker sur Debian et Importer des Données JSON
 
-# Tutoriel : Installer MongoDB avec Docker sur Debian et Importer des Données JSON
-
 ## Partie 1 : Installation et Mise en Place
 
 - Installer Docker
